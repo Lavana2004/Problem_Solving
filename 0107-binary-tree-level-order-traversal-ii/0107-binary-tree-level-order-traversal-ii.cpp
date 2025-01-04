@@ -1,8 +1,7 @@
-
 class Solution {
 public:
-    vector<vector<int>> levelOrderBottom(TreeNode* root) {
-         queue<TreeNode*>q;
+    vector<vector<int>> levelOrderBottom(TreeNode* root){
+        queue<TreeNode*>q;
         vector<vector<int>>res;
         q.push(root);
         if(root==NULL) return res;
@@ -23,6 +22,5 @@ public:
         }
         reverse(res.begin(),res.end());
         return res;
-    
     }
 };
