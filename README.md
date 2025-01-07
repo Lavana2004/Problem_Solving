@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Lavana2004/Problem_Solving/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Lavana2004/Problem_Solving/tree/master/0012-integer-to-roman) |
+| [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lavana2004/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lavana2004/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/2465-shifting-letters-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
+| [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lavana2004/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2465-shifting-letters-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 ## Union Find
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lavana2004/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
