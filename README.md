@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lavana2004/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lavana2004/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/2465-shifting-letters-ii) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Lavana2004/Problem_Solving/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Lavana2004/Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavana2004/Problem_Solving/tree/master/0093-restore-ip-addresses) |
+## Greedy
+|  |
+| ------- |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Lavana2004/Problem_Solving/tree/master/2687-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
