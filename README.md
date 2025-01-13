@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Lavana2004/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lavana2004/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2226-rings-and-rods](https://github.com/Lavana2004/Problem_Solving/tree/master/2226-rings-and-rods) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lavana2004/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lavana2004/Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2226-rings-and-rods](https://github.com/Lavana2004/Problem_Solving/tree/master/2226-rings-and-rods) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lavana2004/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Lavana2004/Problem_Solving/tree/master/2687-lexicographically-smallest-beautiful-string) |
