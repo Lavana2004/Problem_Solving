@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Lavana2004/Problem_Solving/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavana2004/Problem_Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lavana2004/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0886-score-of-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lavana2004/Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Recursion
