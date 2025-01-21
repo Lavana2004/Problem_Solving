@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lavana2004/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0504-base-7](https://github.com/Lavana2004/Problem_Solving/tree/master/0504-base-7) |
+| [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/Lavana2004/Problem_Solving/tree/master/1070-convert-to-base-2) |
 ## Tree
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0022-generate-parentheses) |
+| [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 ## Graph
 |  |
 | ------- |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
