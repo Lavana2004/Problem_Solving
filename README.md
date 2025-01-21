@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavana2004/Problem_Solving/tree/master/1321-get-equal-substrings-within-budget) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lavana2004/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavana2004/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lavana2004/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lavana2004/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Lavana2004/Problem_Solving/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavana2004/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lavana2004/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/Lavana2004/Problem_Solving/tree/master/2145-grid-game) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lavana2004/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavana2004/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Graph
 |  |
 | ------- |
