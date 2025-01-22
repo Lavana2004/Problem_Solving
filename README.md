@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavana2004/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0394-decode-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0886-score-of-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Lavana2004/Problem_Solving/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/1078-remove-outermost-parentheses) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavana2004/Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lavana2004/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Lavana2004/Problem_Solving/tree/master/0120-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavana2004/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
