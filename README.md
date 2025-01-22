@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lavana2004/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lavana2004/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0063-unique-paths-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Lavana2004/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
