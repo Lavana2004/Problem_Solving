@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Lavana2004/Problem_Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
+| [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Lavana2004/Problem_Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
+| [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Array
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0952-word-subsets](https://github.com/Lavana2004/Problem_Solving/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/Lavana2004/Problem_Solving/tree/master/1129-longest-string-chain) |
+| [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavana2004/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
+| [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
+| [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Lavana2004/Problem_Solving/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Lavana2004/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lavana2004/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Lavana2004/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
