@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Lavana2004/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Lavana2004/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Lavana2004/Problem_Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Lavana2004/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Lavana2004/Problem_Solving/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Lavana2004/Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/Lavana2004/Problem_Solving/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Lavana2004/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
