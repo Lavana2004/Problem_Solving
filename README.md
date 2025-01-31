@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Lavana2004/Problem_Solving/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Lavana2004/Problem_Solving/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavana2004/Problem_Solving/tree/master/0403-frog-jump) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavana2004/Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Lavana2004/Problem_Solving/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/Lavana2004/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Lavana2004/Problem_Solving/tree/master/0967-minimum-falling-path-sum) |
 | [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavana2004/Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lavana2004/Problem_Solving/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Lavana2004/Problem_Solving/tree/master/0120-triangle) |
+| [0221-maximal-square](https://github.com/Lavana2004/Problem_Solving/tree/master/0221-maximal-square) |
 | [0376-wiggle-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/Lavana2004/Problem_Solving/tree/master/0403-frog-jump) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
