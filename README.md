@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Lavana2004/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Lavana2004/Problem_Solving/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavana2004/Problem_Solving/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Lavana2004/Problem_Solving/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavana2004/Problem_Solving/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Array
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Lavana2004/Problem_Solving/tree/master/0820-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/Lavana2004/Problem_Solving/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Lavana2004/Problem_Solving/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Shortest Path
 |  |
 | ------- |
