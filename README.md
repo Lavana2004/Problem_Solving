@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavana2004/Problem_Solving/tree/master/2226-rings-and-rods) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Lavana2004/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Lavana2004/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Lavana2004/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Lavana2004/Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Lavana2004/Problem_Solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Lavana2004/Problem_Solving/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Lavana2004/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Union Find
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lavana2004/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Lavana2004/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String Matching
 |  |
 | ------- |
