@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lavana2004/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavana2004/Problem_Solving/tree/master/2226-rings-and-rods) |
+| [2434-design-a-number-container-system](https://github.com/Lavana2004/Problem_Solving/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Lavana2004/Problem_Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Lavana2004/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Lavana2004/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/Lavana2004/Problem_Solving/tree/master/2434-design-a-number-container-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -380,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Lavana2004/Problem_Solving/tree/master/1300-critical-connections-in-a-network) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Lavana2004/Problem_Solving/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Lavana2004/Problem_Solving/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
