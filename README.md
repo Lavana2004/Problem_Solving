@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1013-fibonacci-number) |
 | [1070-convert-to-base-2](https://github.com/Lavana2004/Problem_Solving/tree/master/1070-convert-to-base-2) |
 | [1236-n-th-tribonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/Lavana2004/Problem_Solving/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Lavana2004/Problem_Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2226-rings-and-rods](https://github.com/Lavana2004/Problem_Solving/tree/master/2226-rings-and-rods) |
+| [2448-count-number-of-bad-pairs](https://github.com/Lavana2004/Problem_Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Lavana2004/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Lavana2004/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Lavana2004/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/Lavana2004/Problem_Solving/tree/master/2145-grid-game) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Lavana2004/Problem_Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2448-count-number-of-bad-pairs](https://github.com/Lavana2004/Problem_Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Lavana2004/Problem_Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Lavana2004/Problem_Solving/tree/master/2685-first-completely-painted-row-or-column) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Lavana2004/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Lavana2004/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Lavana2004/Problem_Solving/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2448-count-number-of-bad-pairs](https://github.com/Lavana2004/Problem_Solving/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Lavana2004/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Simulation
 |  |
