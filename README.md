@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Lavana2004/Problem_Solving/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/Lavana2004/Problem_Solving/tree/master/0952-word-subsets) |
 | [1129-longest-string-chain](https://github.com/Lavana2004/Problem_Solving/tree/master/1129-longest-string-chain) |
 | [1364-tuple-with-same-product](https://github.com/Lavana2004/Problem_Solving/tree/master/1364-tuple-with-same-product) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavana2004/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Lavana2004/Problem_Solving/tree/master/0139-word-break) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0639-decode-ways-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [1364-tuple-with-same-product](https://github.com/Lavana2004/Problem_Solving/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Lavana2004/Problem_Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lavana2004/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Lavana2004/Problem_Solving/tree/master/2434-design-a-number-container-system) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
