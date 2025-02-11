@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/2465-shifting-letters-ii) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Lavana2004/Problem_Solving/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Lavana2004/Problem_Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Lavana2004/Problem_Solving/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Lavana2004/Problem_Solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Lavana2004/Problem_Solving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Lavana2004/Problem_Solving/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lavana2004/Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Lavana2004/Problem_Solving/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
