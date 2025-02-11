@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lavana2004/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Lavana2004/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Lavana2004/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lavana2004/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lavana2004/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [1321-get-equal-substrings-within-budget](https://github.com/Lavana2004/Problem_Solving/tree/master/1321-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
