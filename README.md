@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lavana2004/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Lavana2004/Problem_Solving/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Lavana2004/Problem_Solving/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Lavana2004/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0063-unique-paths-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Lavana2004/Problem_Solving/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Lavana2004/Problem_Solving/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavana2004/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lavana2004/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
