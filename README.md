@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Lavana2004/Problem_Solving/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Lavana2004/Problem_Solving/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lavana2004/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Lavana2004/Problem_Solving/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Lavana2004/Problem_Solving/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lavana2004/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/1078-remove-outermost-parentheses) |
@@ -422,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Lavana2004/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
