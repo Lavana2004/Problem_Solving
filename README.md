@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Lavana2004/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Lavana2004/Problem_Solving/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Lavana2004/Problem_Solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Lavana2004/Problem_Solving/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Lavana2004/Problem_Solving/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Lavana2004/Problem_Solving/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0376-wiggle-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Lavana2004/Problem_Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Lavana2004/Problem_Solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
