@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Lavana2004/Problem_Solving/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Lavana2004/Problem_Solving/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Lavana2004/Problem_Solving/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Lavana2004/Problem_Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavana2004/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lavana2004/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Lavana2004/Problem_Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
 | ------- |
