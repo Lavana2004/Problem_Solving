@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Lavana2004/Problem_Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavana2004/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Lavana2004/Problem_Solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Lavana2004/Problem_Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lavana2004/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/Lavana2004/Problem_Solving/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavana2004/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0813-all-paths-from-source-to-target](https://github.com/Lavana2004/Problem_Solving/tree/master/0813-all-paths-from-source-to-target) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Lavana2004/Problem_Solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Lavana2004/Problem_Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
