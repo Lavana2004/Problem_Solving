@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Lavana2004/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Lavana2004/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Lavana2004/Problem_Solving/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Lavana2004/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lavana2004/Problem_Solving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0063-unique-paths-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lavana2004/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Lavana2004/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Lavana2004/Problem_Solving/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Lavana2004/Problem_Solving/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Lavana2004/Problem_Solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Lavana2004/Problem_Solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lavana2004/Problem_Solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lavana2004/Problem_Solving/tree/master/0064-minimum-path-sum) |
