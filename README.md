@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Lavana2004/Problem_Solving/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Lavana2004/Problem_Solving/tree/master/0139-word-break) |
+| [0217-contains-duplicate](https://github.com/Lavana2004/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0952-word-subsets](https://github.com/Lavana2004/Problem_Solving/tree/master/0952-word-subsets) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lavana2004/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Lavana2004/Problem_Solving/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Lavana2004/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Lavana2004/Problem_Solving/tree/master/0221-maximal-square) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0376-wiggle-subsequence) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Lavana2004/Problem_Solving/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Lavana2004/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [1129-longest-string-chain](https://github.com/Lavana2004/Problem_Solving/tree/master/1129-longest-string-chain) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Lavana2004/Problem_Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
