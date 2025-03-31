@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lavana2004/Problem_Solving/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Lavana2004/Problem_Solving/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/Lavana2004/Problem_Solving/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0394-decode-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Lavana2004/Problem_Solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/0005-longest-palindromic-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Lavana2004/Problem_Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Lavana2004/Problem_Solving/tree/master/0283-move-zeroes) |
 | [1129-longest-string-chain](https://github.com/Lavana2004/Problem_Solving/tree/master/1129-longest-string-chain) |
 | [1894-merge-strings-alternately](https://github.com/Lavana2004/Problem_Solving/tree/master/1894-merge-strings-alternately) |
