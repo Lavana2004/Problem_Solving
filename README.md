@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1517-restore-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/Lavana2004/Problem_Solving/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Lavana2004/Problem_Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1894-merge-strings-alternately](https://github.com/Lavana2004/Problem_Solving/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Lavana2004/Problem_Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Lavana2004/Problem_Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Lavana2004/Problem_Solving/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/Lavana2004/Problem_Solving/tree/master/0283-move-zeroes) |
 | [1129-longest-string-chain](https://github.com/Lavana2004/Problem_Solving/tree/master/1129-longest-string-chain) |
+| [1894-merge-strings-alternately](https://github.com/Lavana2004/Problem_Solving/tree/master/1894-merge-strings-alternately) |
 ## Topological Sort
 |  |
 | ------- |
